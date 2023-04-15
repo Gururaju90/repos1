@@ -1,0 +1,11 @@
+git init
+git status
+git add
+git commit -m ""
+git remote add origin "URL"
+git push -u origin master
+
+
+
+git config --global user.email "rajguru631@gmail.com"
+git config --global user.name "Gururaju"
