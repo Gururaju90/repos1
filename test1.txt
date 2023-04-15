@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 72A8-D728
+
+ Directory of C:\Users\shilp\OneDrive\Desktop\MyProject
+
+15/04/2023  18:03    <DIR>          .
+15/04/2023  18:00    <DIR>          ..
+15/04/2023  18:03                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  872,960,684,032 bytes free
